@@ -34,6 +34,7 @@
 | **[03-8-questions.md](docs/03-8-questions.md)** | **8 問實操指南** | **核心實戰**！8 個黃金問題的專用腳本、適用場景演練、思維閉環檢查表。 |
 | **[04-retrieval.md](docs/04-retrieval.md)** | **取回的科學** | 必要難度原理、間隔重複時程表 (1h/1d/3d/1w/1m)、環境線索設計。 |
 | **[05-30day-plan.md](docs/05-30day-plan.md)** | **30 天訓練計劃** | 覺醒、重構、固化、整合四階段，每日具體任務清單，帶領你從理論走向本能。 |
+| **[special-needs/ADHD-ODD-Hacker-Guide.md](docs/special-needs/ADHD-ODD-Hacker-Guide.md)** | **ADHD & ODD 駭客指南** | **專屬外掛**！將 Bug 轉化為外掛，利用高頻寬特質，用遊戲化與反權威視角駭入學習系統。 |
 
 ## 🚀 如何使用
 
