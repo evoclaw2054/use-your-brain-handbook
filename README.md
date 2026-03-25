@@ -35,6 +35,7 @@
 | **[04-retrieval.md](docs/04-retrieval.md)** | **取回的科學** | 必要難度原理、間隔重複時程表 (1h/1d/3d/1w/1m)、環境線索設計。 |
 | **[05-30day-plan.md](docs/05-30day-plan.md)** | **30 天訓練計劃** | 覺醒、重構、固化、整合四階段，每日具體任務清單，帶領你從理論走向本能。 |
 | **[special-needs/ADHD-ODD-Hacker-Guide.md](docs/special-needs/ADHD-ODD-Hacker-Guide.md)** | **ADHD & ODD 駭客指南** | **專屬外掛**！將 Bug 轉化為外掛，利用高頻寬特質，用遊戲化與反權威視角駭入學習系統。 |
+| **[special-needs/parent-communication-scripts.md](docs/special-needs/parent-communication-scripts.md)** | **家長溝通腳本** | **無衝突對話**！高衝突情境腳本、禁忌語術轉換表、緊急降溫協議、每週家庭會議指南。 |
 
 ## 🚀 如何使用
 
@@ -48,4 +49,4 @@
 
 ---
 
-*本知識庫持續更新中。最後更新：2026-03-17*
+*本知識庫持續更新中。最後更新：2026-03-25*
